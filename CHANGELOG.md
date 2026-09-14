@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.2.2](https://github.com/mykemeynell/reflection/compare/v2.2.1...v2.2.2) (2026-09-14)
+
+
+### Miscellaneous Chores
+
+* changed release to monday 2am utc ([d358303](https://github.com/mykemeynell/reflection/commit/d358303ab6f291636f1d31c692cf95ee0a7c70a2))
+* promote dev to main ([3219106](https://github.com/mykemeynell/reflection/commit/3219106e08ee51daaabb98a08f62b8d52294fe5d))
+
 ## [2.2.1](https://github.com/mykemeynell/reflection/compare/v2.2.0...v2.2.1) (2026-09-04)
 
 
